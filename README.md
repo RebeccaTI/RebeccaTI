@@ -16,20 +16,25 @@
 </div>
 
 <div> 
+  
+  <h1><b>Redes sociais</b></h1>
   <a href = "mailto:rebecca.mcrangel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rebecca-r-0a05a0119/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://wa.me/5521965456626" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-21965456626?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  
+   <a href="https://wa.me/5521965456626" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-21965456626?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
   
 </div>
 
-  <h1><b>Domínio</b></h1>
+  <h1><b>Domínios</b></h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="Becca-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Becca-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"">
-
- 
-          
+  <img align="center" alt="Becca-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Becca-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Becca-Js" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
+  <img align="center" alt="Becca-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img align="center" alt="Becca-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+     
   <img align="center" alt="Becca-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Becca-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Becca-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
