@@ -3,8 +3,8 @@
 
 
 
-- 👩‍💻  Experiência de 3 anos na área, já trabalhei com back-end e front-end.
-- 🌱 tenho focado no estudo de front-end, principalmente o Angular e o React
+- 👩‍💻 Experiência de 3 anos na área, já trabalhei com back-end e front-end.
+- 🌱 Venho focando no estudo de front-end, principalmente o Angular e o React
 - 🧨 Tenho duramente me organizado para estar mais dentro das comunidades de devs e venho conseguindo espaço
 - 💬 Gosto de jogar video-game, surfar, programar para passar o tempo e aprender, ir ao cinema...
 
