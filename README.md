@@ -42,5 +42,8 @@
 </div>
   
   <h1><b>Estudando</b></h1>
+   <img align="center" alt="Becca-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    
+          
 
 
