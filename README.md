@@ -1,12 +1,11 @@
 ### Oie, eu me chamo Rebecca, mas todos me conhecem mais como Becca!
-### Desenvolvedora 💻 / formada em 'Análise e desenvolvimento de sistemas' 📚
+### Desenvolvedora ABAP 💻 / formada em 'Análise e desenvolvimento de sistemas' 📚 e suo minha camisa pela Light, uma empresa de distribuição de energia.
 
 
 
-- 👩‍💻 Experiência de 3 anos na área, já trabalhei com back-end e front-end.
-- 🌱 Venho focando no estudo de front-end, principalmente o Angular e o React
-- 🧨 Tenho duramente me organizado para estar mais dentro das comunidades de devs e venho conseguindo espaço
-- 💬 Gosto de jogar video-game, surfar, programar para passar o tempo e aprender, ir ao cinema...
+- 👩‍💻 Experiência de 5 anos na área, já trabalhei com back-end e front-end.
+- 🌱 Venho focando no estudo e minha carreira, voltada para o desenvolvimento em ABAP.
+- 💬 Gosto de jogar video-game, programar, viajar com a minha família e fazer espressos no meu laboratório pessoal. ( minha sala 🙃 ).
 
 
 <div>
